@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "jD37kRtL",
+                "name": "TechCrunch"
+            },
+            "author": "Lorenzo Franceschi-Bicchierai",
+            "title": "How the FBI goes after DDoS cyberattackers | TechCrunch",
+            "description": "In an interview at the Black Hat cybersecurity conference, the FBI explained how it targets and takes down DDoS attackers and booter sites.",
+            "url": "https://techcrunch.com/2023/08/12/fbi-ddos-for-hire-cyberattackers/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/booter-christmas-ddos-photomosh-brighter.jpg?resize=1200,800",
+            "publishedAt": "2023-08-12T13:01:36Z",
+            "content": "In 2016, hackers using a network of compromised internet-connected devices vulnerable security cameras and routers knocked some of the then biggest websites on the internet offline for several hours.… [+22211 chars]"
+        },
+        {
+            "source": {
+                "id": "pQ92sGfE",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Szkutak",
+            "title": "This AI startup is racking up government customers | TechCrunch",
+            "description": "Tel Aviv-based IVIX uses AI, machine learning and public databases of business activity to help government entities spot tax noncompliance.",
+            "url": "https://techcrunch.com/2023/08/12/ivix-ai-financial-crimes/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1398401418.jpg?resize=1200,849",
+            "publishedAt": "2023-08-12T00:59:31Z",
+            "content": "Tax evasion, money laundering and other financial crimes are massive, costly issues. In 2021, the Internal Revenue Service estimated that the U.S. loses $1 trillion a year due to tax evasion alone. I… [+1011 chars]"
+        },
+        {
+            "source": {
+                "id": "mW65bNhX",
+                "name": "TechCrunch"
+            },
+            "author": "Mary Ann Azevedo",
+            "title": "It's official: Better.com is going public | TechCrunch",
+            "description": "We didn’t think we’d see the day. Digital mortgage lender Better.com’s proposal to combine with Aurora Acquisition Corp. via a SPAC (special purpose Digital mortgage lender Better.com originally made plans to go public via a $6 billion SPAC in May 2021.",
+            "url": "https://techcrunch.com/2023/08/11/its-official-better-com-is-going-public/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1084762724.jpg?resize=1200,675",
+            "publishedAt": "2023-08-11T21:11:02Z",
+            "content": "We didnt think wed see the day.\r\nDigital mortgage lender Better.coms proposal to combine with Aurora Acquisition Corp. via a SPAC (special purpose acquisition) has been approved by shareholders, the … [+3095 chars]"
+        },
+        {
+            "source": {
+                "id": "cA84vJuZ",
+                "name": "TechCrunch"
+            },
+            "author": "Alex Wilhelm",
+            "title": "A core plank of the SaaS economic model is under extreme pressure | TechCrunch",
+            "description": "Welcome to the TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s inspired by the daily TechCrunch+ column where it gets its name.",
+            "url": "https://techcrunch.com/2023/08/12/saas-economic-model-pressure/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-117149428.jpg?resize=1200,844",
+            "publishedAt": "2023-08-11T21:04:04Z",
+            "content": "Welcome to the TechCrunch Exchange, a weekly startups-and-markets newsletter. Its inspired by the daily TechCrunch+ column where it gets its name. Want it in your inbox every Saturday? Sign up here.\r… [+2329 chars]"
+        },
+        {
+            "source": {
+                "id": "rT59pKcY",
+                "name": "TechCrunch"
+            },
+            "author": "Amanda Silberling",
+            "title": "Okay, fine, I want Elon Musk and Mark Zuckerberg to fight | TechCrunch",
+            "description": "Musk said the fight was on, but Zuckerberg hasn't heard anything -- \"please assume anything [Musk] says has not been agreed on.\"",
+            "url": "https://techcrunch.com/2023/08/11/okay-fine-i-want-elon-musk-and-mark-zuckerberg-to-fight/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/zuckmuskfight.jpg?resize=1200,800",
+            "publishedAt": "2023-08-11T20:55:21Z",
+            "content": "Elon Musk has disappointed me many times. He bought my favorite social network and made it bad. He hasmistreatedworkers across his companies, and he has permanently ruined the enduring comedy of 420 … [+4822 chars]"
+        },
+        {
+            "source": {
+                "id": "hF76mVxQ",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "Researchers jailbreak a Tesla, the FCC fines robocallers and WeWork finds itself in trouble (again) | TechCrunch",
+            "description": "In this edition of TC's Week in Review (WiR) newsletter, we cover researchers hacking Teslas, the FCC finding robocallers and more.",
+            "url": "https://techcrunch.com/2023/08/12/researchers-jailbreak-a-tesla-the-fcc-fines-robocallers-and-wework-finds-itself-in-trouble-again/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1483364301.jpg?resize=1200,675",
+            "publishedAt": "2023-08-11T20:37:10Z",
+            "content": "Welcome, friends, to TechCrunch’s Week in Review (WiR), the newsletter where we recap the week that was in tech. For those new to WiR, think of it as a digest of stories and pieces that topped the ch… [+5525 chars]"
+        },
+        {
+            "source": {
+                "id": "dE28nBsW",
+                "name": "TechCrunch"
+            },
+            "author": "Jacquelyn Melinek",
+            "title": "Former FTX CEO Sam Bankman-Fried bail revoked ahead of October trial | TechCrunch",
+            "description": "Sam Bankman-Fried, the former CEO of the now-bankrupt crypto exchange FTX, had his bail revoked ahead of his October trial, US District Court Judge Lewis",
+            "url": "https://techcrunch.com/2023/08/11/former-ftx-ceo-sam-bankman-fried-bail-revoked-ahead-of-october-trial/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1245966835.jpeg?resize=1200,800",
+            "publishedAt": "2023-08-11T19:44:50Z",
+            "content": "Sam Bankman-Fried, the former CEO of the now-bankrupt crypto exchange FTX, had his bail revoked ahead of his October trial, US District Court Judge Lewis Kaplan said on Friday.\r\nThe decision came aft… [+910 chars]"
+        },
+        {
+            "source": {
+                "id": "gZ13lPtM",
+                "name": "TechCrunch"
+            },
+            "author": "Haje Jan Kamps",
+            "title": "When you gaze into the AI, the AI also gazes into you | TechCrunch",
+            "description": "In my column this week, I spent a bit of time thinking about the times that robots have had an impact on my life.",
+            "url": "https://techcrunch.com/2023/08/11/when-you-gaze-into-the-ai-the-ai-also-gazes-into-you/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-637552576.jpg?resize=1200,800",
+            "publishedAt": "2023-08-11T19:35:45Z",
+            "content": "Welcome to Startups Weekly. Sign up here to get it in your inbox every Friday.\r\nFri-yay indeed. We sigh, as humans spool up to take a break, while the semi-sentient machines continue writing their po… [+7887 chars]"
+        },
+        {
+            "source": {
+                "id": "kU42iHwO",
+                "name": "TechCrunch"
+            },
+            "author": "Alex Wilhelm",
+            "title": "Startup founders should care more about Serve Robotics' listing | TechCrunch",
+            "description": "Serve's going public gives us the rare opportunity to closely follow a startup's crucial, early growth days in a nascent market.",
+            "url": "https://techcrunch.com/2023/08/11/startup-founders-should-care-more-about-serve-robotics-listing/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/03/Serve-front-sidewalk.jpg?resize=1200,800",
+            "publishedAt": "2023-08-11T18:35:18Z",
+            "content": "We love mergers and acquisitions here at TechCrunch. We even kind of like reverse mergers. But this latest development in the robotics industry sure has us excited!\r\nDelivery robots maker Serve Robot… [+1852 chars]"
+        },
+        {
+            "source": {
+                "id": "sN71oLyR",
+                "name": "TechCrunch"
+            },
+            "author": "Lauren Simonds",
+            "title": "Only a few hours left to save on passes to TechCrunch Disrupt 2023 | TechCrunch",
+            "description": "When the clock strikes one-minute-to-midnight tonight, the price on a pass to TechCrunch Disrupt 2023 goes up. Get yours now and save up to $600.",
+            "url": "https://techcrunch.com/2023/08/11/only-a-few-hours-left-to-save-on-passes-to-techcrunch-disrupt-2023/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/hours.png?resize=1200,675",
+            "publishedAt": "2023-08-11T01:36:51Z",
+            "content": "You have just mere hours left to save a bundle on passes to TechCrunch Disrupt 2023, taking place September 1921 in San Francisco. At this point, perhaps you need the help of Saint Expeditus, the pat… [+1748 chars]"
+        }
+    ]
+}
